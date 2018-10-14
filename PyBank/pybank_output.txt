@@ -1,0 +1,7 @@
+ProfitLossReport
+----------------------------
+Total Months: 86
+TotalProfitLoss: $-3273318
+AverageChange: $-38061.84
+GreatestIncrease: Feb-12 ($1170593)
+Greatest Decrease: Sep-13 ($-1196225)
